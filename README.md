@@ -7,10 +7,10 @@ This Bash script automatically downloads videos from YouTube listed in the `cart
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)  
 - Bash 
 
-### Install `yt-dlp` (for macOS via Homebrew):
+### Install `yt-dlp`:
 
 ```bash
-brew install yt-dlp
+pip install yt-dlp
 ```
 
 ## 📄 Structure
